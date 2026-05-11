@@ -1,5 +1,7 @@
 # 📜 Shibli Knowledge Website – Allama Shibli Nomani Biography
- <img src=""></img>
+<div align="center">
+  <img src="shibli-nomani.png" alt="Allama Shibli Nomani">
+</div><br>
 Welcome to the **Shibli Knowledge Website** – a digital tribute to **Allama Shibli Nomani**, the visionary founder of our college. This project showcases his complete biography, achievements, literary works, and legacy. It also includes an **online book ordering system** powered by Razorpay, allowing visitors to purchase books written by Allama Shibli Nomani.
 
 > 🔗 **Live Demo:** [shibli.free.nf](http://shibli.free.nf)
@@ -59,5 +61,7 @@ Copy the extracted folder and paste it inside:
 ```php
 $razorpay_key_id = "YOUR_ACTUAL_KEY_ID";
 $razorpay_key_secret = "YOUR_ACTUAL_KEY_SECRET";
+
+
 
 http://localhost/your-folder-name/
