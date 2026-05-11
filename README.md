@@ -1,2 +1,2 @@
 # Shibli-Knowledge-website
-A Complete PHP Based Full Stack Website on College Founder Allama Shibli Nomani
+A Complete PHP Based Full Stack Website on Founder of Shibli National College named Allama Shibli Nomani.
